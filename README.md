@@ -4,7 +4,7 @@
   <h3 align="center">An AI Article Summarizer Website</h3>
 
    <div align="center">
-     Built by Shivansh Singh, BTech student at Raj Kumar Goel Institute of Technology.
+     Built by Sarthak Dubey, BTech student at Raj Kumar Goel Institute of Technology.
     </div>
 </div>
 
